@@ -1,2 +1,2 @@
 # vim_config
-.vimrc cscope_maps.vim
+The basic configuration files for vim. (.vimrc cscope_maps.vim)
