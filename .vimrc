@@ -402,6 +402,7 @@ set cursorline
 
 set cindent
 set noexpandtab
+"set expandtab      " replace table with 4 space
 set tabstop=4
 set shiftwidth=4
 
