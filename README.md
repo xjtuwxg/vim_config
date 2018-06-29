@@ -13,3 +13,6 @@ Use `ctrl+v` to enter the 'visual block' mode. Select the blocks to be indented.
 `:2,8>`    Indent line 2 to line 8
 
 `:3,8<`    Delete the blanks from line 3 to 8
+
+
+**.bash_profile** is used on MacOS to make Iterm2 as easy to use as Linux bash
