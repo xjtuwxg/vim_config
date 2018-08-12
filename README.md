@@ -17,3 +17,16 @@ Use `ctrl+v` to enter the 'visual block' mode. Select the blocks to be indented.
 
 # bash profile
 **.bash_profile** is used on *MacOS* to make *Iterm2* as easy to use as Linux bash
+
+It can specify the `alias` for some commonly used commands.
+
+On some Linux edition, such as *Fedora*, the `alias` could be set:
+```
+[xgwang@lab ~]$ cat .bashrc 
+# thefuck configuration
+eval $(thefuck --alias)
+
+# alias configuration
+alias vi='vim'
+alias taka='ssh <username>@<server ip> -p <port>'
+```
